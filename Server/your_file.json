@@ -1,0 +1,3049 @@
+{
+    "AP Rounds I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "AP Rounds II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Afterburner-S I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Afterburner-S II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Afterburner-S III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Fuel Injector": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Armchair": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Astero blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Banner (CoreSec)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Banner (Foralkan)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Banner (Lycentian)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Banner (Trade Union)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Barracuda blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Battery I": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Battery II": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Battery III": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Beam I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Beam II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Beam III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Beam-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Beam-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Beam-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Blaster I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Blaster II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Blaster III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Blaster-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Blaster-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Blaster-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Blink Drive I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Blink Drive II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Blink Drive III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Box shelf": {
+        "category": [
+            "Furniture.Shelves"
+        ]
+    },
+    "Candiru blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Cannon I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Cannon II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Cannon III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Cannon-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Cannon-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Cannon-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Christmas tree": {
+        "category": [
+            "Furniture.Plants"
+        ]
+    },
+    "Coilgun I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Coilgun II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Coilgun III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Coilgun-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Coilgun-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Coilgun-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Composite Armor I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Composite Armor II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Composite Armor III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Conciliator blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "CoreSec Targeter I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Couch (center)": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Couch (left)": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Couch (right)": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Counter": {
+        "category": [
+            "Furniture.Counters"
+        ]
+    },
+    "Counter (bar)": {
+        "category": [
+            "Furniture.Counters"
+        ]
+    },
+    "Curved bench": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Curved chair": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Display case": {
+        "category": [
+            "Furniture.Displays"
+        ]
+    },
+    "Display shelf": {
+        "category": [
+            "Furniture.Displays"
+        ]
+    },
+    "Disruptor I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Disruptor II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Disruptor III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Double rounded bed": {
+        "category": [
+            "Furniture.Beds"
+        ]
+    },
+    "Dread Coilgun blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Coilgun-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Flak blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Railgun blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Railgun-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Shrapnel blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Drone Targeter I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Drone Targeter II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Eclipse Helmet": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Eclipse Legs": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Eclipse Torso": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Edict blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Endtable": {
+        "category": [
+            "Furniture.Tables"
+        ]
+    },
+    "Energy Booster I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Energy Booster II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Energy Booster III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Engine Gimbals I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Engine Gimbals II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Engine Gimbals III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Enhanced Deflectors I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Enhanced Deflectors II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Enhanced Deflectors III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Enhanced Servos I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Enhanced Servos II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Enhanced Servos III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Eos blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Exhaust Restrictor I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Exhaust Restrictor II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Exhaust Restrictor III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Firework": {
+        "category": [
+            "Deployables.Fireworks"
+        ]
+    },
+    "Firework (snowflake)": {
+        "category": [
+            "Deployables.Fireworks"
+        ]
+    },
+    "Flak I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Flak II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Flak III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Foralkan Targeter I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Foralkan Targeter II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Fuel Injector I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Fuel Injector II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Fuel Injector III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Galaxy blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "HE Rounds I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "HE Rounds II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Hardlight Shields I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Hardlight Shields II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Hardlight Shields III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Heat Sink I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heat Sink II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heat Sink III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heavy Bolt I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heavy Bolt II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heavy Bolt III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Heavy Hull Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Hull Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Hull Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Sensor Janmer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Shield Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Shield Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Heavy Shield Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Holo plant": {
+        "category": [
+            "Furniture.Plants",
+            "Furniture.electronics"
+        ]
+    },
+    "Holoprojector (CoreSec)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Holoprojector (Foralkan)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Holoprojector (Lycentian)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Holoprojector (Mining Guild)=": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Holoprojector (Trade Union)": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Hornbill blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Houseplant": {
+        "category": [
+            "Furniture.Plants"
+        ]
+    },
+    "Hull Booster I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hull Booster II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hull Booster III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Beam blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Beam-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Blaster blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Blaster-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Cannon blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Cannon-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Claymore blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Ion": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Hybrid Ion Rounds": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Hybrid Ion-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Hybrid Luminar blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Paragon blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Polaris blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Ice Miner I": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Ice Miner II": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Ion I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Ion II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Ion III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Ion Rounds I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Ion Rounds II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Ion Rounds III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Ion-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Ion-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Ion-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Jockey Helmet": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Jockey Legs": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Jockey Torso": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Judicator blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Justice blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Knifejaw blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Koronis blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Liberty blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Light Hull Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Hull Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Hull Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Sensor Jammer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Shield Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Shield Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Light Shield Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Lightburner-L III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Lightburner-M III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Lightburner-S III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Lightweight Engines I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Lightweight Engines II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Lightweight Engines III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Loxodon blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Lucent blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Luster blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Lycentian Targeter I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Lycentian Targeter II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Macaw blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Mackerel blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Marine Helmet": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Marine Legs": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Marine Torso": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Medium Hull Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Medium Hull Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Medium Hulll Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Medium Shield Repairer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Medium Shield Repairer II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Medium Shield Repairer III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Miner I": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Miner II": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Nero Helmet": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Nero Legs": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Nero Torso": {
+        "category": [
+            "Armor.Heavy",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Nullifier Rounds I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Nullifier Rounds II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Overclocker II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Overclocker III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Overdrive-L I": {
+        "category": [
+            "Modules.Subsytem"
+        ]
+    },
+    "Overdrive-L II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Overdrive-L III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Overdrive-M II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Overdrive-M III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Pants": {
+        "category": [
+            "Clothing.Civilian",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (CoreSec)": {
+        "category": [
+            "Clothing.Uniforms.CoreSec",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Foralkan Admiral)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Foralkan Command)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Foralkan)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Kavani Command)": {
+        "category": [
+            "Clothing.Uniforms.Kavani",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Kavani)": {
+        "category": [
+            "Clothing.Uniforms.Kavani",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Lycentian Admiral)": {
+        "category": [
+            "Clothing.Uniforms.Lycentian",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Lycentian Command)": {
+        "category": [
+            "Clothing.Uniforms.Lycentian",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Lycentian)": {
+        "category": [
+            "Clothing.Uniforms.Lycentian",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Mining Guild)": {
+        "category": [
+            "Clothing.Uniforms.Mining Guild",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Syndicate)": {
+        "category": [
+            "Clothing.Uniforms.Syndicate",
+            "Clothing.Pants"
+        ]
+    },
+    "Pants (Trade Union)": {
+        "category": [
+            "Clothing.Uniforms.Trade Union",
+            "Clothing.Pants"
+        ]
+    },
+    "Parallel Circuits I": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Parallel Circuits II": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Parallel Circuits III": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Parrot blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Patcher Nanobots I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Patcher Nanobots II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Patcher Nanobots III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Phoenix Helmet": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Phoenix Legs": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Phoenix Torso": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Piranha blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Precision Miner I": {
+        "category": [
+            "Turrets.Miner"
+        ]
+    },
+    "Precision Miner II": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Railgun I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Railgun II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Railgun III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Railgun-M I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Railgun-M II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Railgun-M III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Rapid Bolt I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Rapid Bolt II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Rapid Bolt III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Reflective Panels I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reflective Panels II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reflective Plating I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reflective Plating II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reflective Plating III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reinforced Hull I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reinforced Hull II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Reinforced Hull III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Rogue Helmet": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Rogue Legs": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Rogue Torso": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Rounded bed": {
+        "category": [
+            "Furniture.Beds"
+        ]
+    },
+    "Sensor Booster I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Sensor Booster II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Sensor Booster III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Sensor Jammer I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Servo Surge I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Servo Surge III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Shadow Helmet": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Shadow Legs": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Shadow Torso": {
+        "category": [
+            "Armor.Light",
+            "Armor.Sold by Station"
+        ]
+    },
+    "Shield Amplifier I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Shield Amplifier II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Shield Amplifier III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Shield Booster I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Shield Booster II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Shield Booster III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Shrapnel I": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Shrapnel II": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Shrapnel III": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Shroud blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Simple bed": {
+        "category": [
+            "Furniture.Beds"
+        ]
+    },
+    "Simple chair": {
+        "category": [
+            "Furniture.Seating"
+        ]
+    },
+    "Skeletonized Chassis I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Skeletonized Chassis II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Skeletonized Chassis III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Slab shelf": {
+        "category": [
+            "Furniture.Shelves"
+        ]
+    },
+    "Snowy tree": {
+        "category": [
+            "Furniture.Plants"
+        ]
+    },
+    "Stand light": {
+        "category": [
+            "Furniture.electronics"
+        ]
+    },
+    "Standing shelf": {
+        "category": [
+            "Furniture.Shelves"
+        ]
+    },
+    "Stasis Field I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Stasis Field II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Stasis Field III": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Strip Miner I": {
+        "category": [
+            "Turrets.Miner"
+        ]
+    },
+    "Strip Miner II": {
+        "category": [
+            "Turrets.Miner",
+            "Turrets.Small"
+        ]
+    },
+    "Swift Bolt I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Swift Bolt II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Swift Bolt III": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "T-shirt": {
+        "category": [
+            "Clothing.Civilian",
+            "Clothing.Shirts"
+        ]
+    },
+    "Table": {
+        "category": [
+            "Furniture.Tables"
+        ]
+    },
+    "Target Painter I": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Target Painter II": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Templar Helmet": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Templar Legs": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Templar Torso": {
+        "category": [
+            "Armor.Light"
+        ]
+    },
+    "Tetra blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Thresher blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Toucan blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Triazo blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Ultralight Chassis I": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ultralight Chassis II": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ultralight Chassis III": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Uniform (CoreSec)": {
+        "category": [
+            "Clothing.Uniforms.CoreSec",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Foralkan Admiral)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Foralkan Command)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Foralkan)": {
+        "category": [
+            "Clothing.Uniforms.Foralkan",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Kavani Command)": {
+        "category": [
+            "Clothing.Uniforms.Kavani",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Kavani Marshal)": {
+        "category": [
+            "Clothing.Uniforms.Kavani",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Kavani)": {
+        "category": [
+            "Clothing.Uniforms.Kavani",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Lycentian Admiral)": {
+        "category": [
+            "Clothing.Uniforms.Lycentian",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Lycentian)": {
+        "category": [
+            "Clothing.Uniforms.Lycentian",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Mining Guild)": {
+        "category": [
+            "Clothing.Uniforms.Mining Guild",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Syndicate)": {
+        "category": [
+            "Clothing.Uniforms.Syndicate",
+            "Clothing.Shirts"
+        ]
+    },
+    "Uniform (Trade Union)": {
+        "category": [
+            "Clothing.Uniforms.Trade Union",
+            "Clothing.Shirts"
+        ]
+    },
+    "Veil blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Vesta blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Virtue blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Wall": {
+        "category": [
+            "Furniture.Walls"
+        ]
+    },
+    "Wall (long)": {
+        "category": [
+            "Furniture.Walls"
+        ]
+    },
+    "Warden Helmet": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Warden Legs": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Warden Torso": {
+        "category": [
+            "Armor.Heavy"
+        ]
+    },
+    "Warp Charger I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp Charger II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp Charger III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp Field Amplifier I": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp Field Amplifier II": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp Field Amplifier III": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Warp disruptor I": {
+        "category": [
+            "Deployables.Combat"
+        ]
+    },
+    "Warp disruptor II": {
+        "category": [
+            "Deployables.Combat"
+        ]
+    },
+    "Warp disruptor III": {
+        "category": [
+            "Deployables.Combat"
+        ]
+    },
+    "Gellium": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Vexnium ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Reknite": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Water": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Red Narcor ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Axnit ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Vexnium": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Water ice": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Axnit": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Narcor": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Narcor ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Axnit (pristine)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Gellium ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Korrelite": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Red Narcor": {
+        "category": [
+            "Resources.Refined Ore"
+        ]
+    },
+    "Reknite (inferior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Reknite ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Korrelite ore": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Korrelite (inferior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Korrelite (pristine)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Reknite (superior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Gellium (superior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Gellium (pristine)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Korrelite (superior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Gellium (inferior)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Reknite (pristine)": {
+        "category": [
+            "Resources.Ore"
+        ]
+    },
+    "Drone command core": {
+        "category": [
+            "Resources.Drone",
+            "Salvage.Faction Points",
+            "Salvage.Drone"
+        ]
+    },
+    "Drone core": {
+        "category": [
+            "Resources.Drone",
+            "Salvage.Faction Points",
+            "Salvage.Drone"
+        ]
+    },
+    "Power cell": {
+        "category": [
+            "Resources.Junk"
+        ]
+    },
+    "Metal scraps": {
+        "category": [
+            "Resources.Junk"
+        ]
+    },
+    "Lycentian Mission Log": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Crate of Exotic Goods": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Contraband weapons": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Stolen artifacts": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Kavani Mission Log": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Crate of Rare Ore": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Contraband goods": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Lycentian Insignia": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Damaged Spaceship Parts": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Foralkan Insignia": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Foralkan Mission Log": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Kavani Insignia": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Damaged Fuel": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Silver)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged supplies": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Shipping Manifest": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Damaged Medical Supplies": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Blue)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Ruby)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Yellow)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Purple)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Amethyst)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Amber)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Orange)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Red)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Jasper)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Damaged Spice (Sapphire)": {
+        "category": [
+            "Salvage.Cargo"
+        ]
+    },
+    "Elite drone core": {
+        "category": [
+            "Salvage.Faction Points",
+            "Salvage.Drone"
+        ]
+    },
+    "Adv drone core": {
+        "category": [
+            "Salvage.Faction Points",
+            "Salvage.Drone"
+        ]
+    },
+    "Foralkan Helmet": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Kavani Helmet": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Lycentian Helmet": {
+        "category": [
+            "Salvage.Faction Points"
+        ]
+    },
+    "Adamant": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Astero": {
+        "category": [
+            "Ships.Hauler"
+        ]
+    },
+    "Aurora": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Badger": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Barracuda": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Bison": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Bulwark": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Candiru": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Chevron": {
+        "category": [
+            "Ships.Corvettes"
+        ]
+    },
+    "Claymore": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Conciliator": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Echelon": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Edict": {
+        "category": [
+            "Ships.Corvettes"
+        ]
+    },
+    "Eos": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Falcon": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Fortitude": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Galaxy": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Halo": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Honey Badger": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Horizon": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Hornbill": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Hybrid Claymore": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Hybrid Luminar": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Hybrid Paragon": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Hybrid Polaris": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Hyrax": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Infinity": {
+        "category": [
+            "Ships.Corvette"
+        ]
+    },
+    "Judicator": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Justice": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Knifejaw": {
+        "category": [
+            "Ships.Corvettes"
+        ]
+    },
+    "Kodiak": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Koronis": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Liberty": {
+        "category": [
+            "Ships.Corvettes"
+        ]
+    },
+    "Loxodon": {
+        "category": [
+            "Ships.Destroyers"
+        ]
+    },
+    "Lucent": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Luster": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Macaw": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Mackerel": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Mako": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Marlin": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Ozark": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Paragon": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Parrot": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Phalanx": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Piranha": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Polaris": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Radix": {
+        "category": [
+            "Ships.Corvettes"
+        ]
+    },
+    "Rhino": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Sabre": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Shroud": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Tetra": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Thresher": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Toucan": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Triazo": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Veil": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Vesta": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Virtue": {
+        "category": [
+            "Ships.Frigates"
+        ]
+    },
+    "Yukon": {
+        "category": [
+            "Ships.Miners"
+        ]
+    },
+    "Zenith": {
+        "category": [
+            "Ships.Interceptors"
+        ]
+    },
+    "Zubron": {
+        "category": [
+            "Ships.Haulers"
+        ]
+    },
+    "Ancient Coilgun": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Ancient Coilgun-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Ancient Railgun": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Ancient Railgun-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Dread Coilgun": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Dread Coilgun-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Dread Flak": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Dread Railgun": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Dread Railgun-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Dread Shrapnel": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Hybrid Beam": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Hybrid Beam-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Hybrid Blaster": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Hybrid Blaster-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Hybrid Cannon": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Small"
+        ]
+    },
+    "Hybrid Cannon-M": {
+        "category": [
+            "Turrets.Combat",
+            "Turrets.Medium"
+        ]
+    },
+    "Disintegrex": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "Explosive I": {
+        "category": [
+            "Weapons.Grenade",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "FG-88": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Gal-31": {
+        "category": [
+            "Weapons.Rifle",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "Gal-32": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Gal-33": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "H3-X": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Hyper G1": {
+        "category": [
+            "Weapons.Pistol",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "Hyper G2": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "Hyper X9": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "LG0-T": {
+        "category": [
+            "Weapons.Rifle",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "LGS-T": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "LG5-T": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "LG9-T": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Orin 377": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "Orin 388": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "Orin 399": {
+        "category": [
+            "Weapons.Pistol"
+        ]
+    },
+    "Poison I": {
+        "category": [
+            "Weapons.Grenade",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "RR-5000": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "SSLB": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Smoke I": {
+        "category": [
+            "Weapons.Grenade",
+            "Weapons.Sold by Station"
+        ]
+    },
+    "Snowball": {
+        "category": [
+            "Weapons.Grenade"
+        ]
+    },
+    "Trila 3": {
+        "category": [
+            "Weapons.Rifle"
+        ]
+    },
+    "Ancient drone core": {
+        "category": [
+            "No use"
+        ]
+    },
+    "Crystal shard": {
+        "category": [
+            "No use"
+        ]
+    },
+    "Ancient beacon": {
+        "category": [
+            "Salvage.Ancient"
+        ]
+    },
+    "Heat Sink": {
+        "category": [
+            "Resources.Junk"
+        ]
+    },
+    "Ethereal (Ozark)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Halo)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Edict)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Paragon)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Kodiak)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Barracuda)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Stratos)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Radix)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Zubron)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Claymore)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Polaris)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Virtue)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Luminar)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Judicator)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Knifejaw)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Dolphin)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Phalanx)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Ethereal (Liberty)": {
+        "category": [
+            "Skins"
+        ]
+    },
+    "Dread Warp Field Amplifier": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Hybrid Heavy Bolt": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Dread Reflective Panels": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Dread Reflective Plating": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Dread Energy Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Enhanced Deflectors": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Hybrid Hardlight Shields": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ancient Hull Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Nullifier Rounds": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Dread Exhaust Restrictor": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Dread Ultralight Chassis": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Hybrid Engine Gimbals": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Ancient Light Armor Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Shield Amplifier": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Luminar": {
+        "category": [
+            "Ships.Fighters"
+        ]
+    },
+    "Ice Miner II blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Blink Drive": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Medium Shield Repairer": {
+        "category": [
+            "Modules.Subsystemss"
+        ]
+    },
+    "Hybrid Enhanced Servos": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Dread Heavy Sensor Janmer": {
+        "category": [
+            "Module.Subsystems"
+        ]
+    },
+    "Dread Reinforced Hull": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ancient Heavy Armor Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Lightweight Engines": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Hybrid Parallel Circuits": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Yuma": {
+        "category": [
+            "Ships.Vendors"
+        ]
+    },
+    "Hybrid Ion blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Heavy Shield Repairer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Medium Armor Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Stasis Field": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Warp Charger": {
+        "category": [
+            "Modules.Engine Rigs"
+        ]
+    },
+    "Hybrid Rapid Bolt": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Dread Heavy Hull Repairer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Light Hull Repairer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Kavani Targeter I": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Spacemine I": {
+        "category": [
+            "Deployables.Combat"
+        ]
+    },
+    "Dread Sensor Janmer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Medium Hull Repairer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Precision Miner II blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Dread Heat Sink": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Hybrid Overclocker": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Light Sensor Janmer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Battery": {
+        "category": [
+            "Modules.Reactor Rigs"
+        ]
+    },
+    "Dread AP Rounds": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Hybrid Light Shield Repairer": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Shield Booster": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Sensor Booster": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Dread Skeletonized Chassis": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ancient HE Rounds": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Strip Miner II blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Ancient Overclocker": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Dread Servo Surge": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Patcher Nanobots": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Ancient Composite Armor": {
+        "category": [
+            "Modules.Defense Rigs"
+        ]
+    },
+    "Fargo": {
+        "category": [
+            "Ships.Vendors"
+        ]
+    },
+    "Hybrid Disruptor": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Swift Bolt": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Dread Disruptor": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Prospector I": {
+        "category": [
+            "Turrets.Miner"
+        ]
+    },
+    "Kavani Targeter II": {
+        "category": [
+            "Modules.Weapon Rigs"
+        ]
+    },
+    "Ancient Overdrive-M": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Overdrive-L": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Afterburner-S": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Lightburner-L": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Lightburner-S": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Ion-M blueprint": {
+        "category": [
+            "Blueprints"
+        ]
+    },
+    "Hybrid Overdrive-M": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Afterburner-S": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Ancient Lightburner-M": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    },
+    "Hybrid Overdrive-L": {
+        "category": [
+            "Modules.Subsystems"
+        ]
+    }
+}

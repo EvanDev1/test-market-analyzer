@@ -1,0 +1,8 @@
+{
+    "Power cell": {
+        "buyVolume": 500,
+        "sellVolume": 300,
+        "buyPrice": 50,
+        "sellPrice": 100
+    }
+}

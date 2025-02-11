@@ -1,0 +1,3039 @@
+{
+  "AP Rounds I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "AP Rounds II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "AP Rounds I"
+    ]
+  },
+  "Adamant": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 650,
+      "Gellium": 1650,
+      "Korrelite": 4500,
+      "Narcor": 225,
+      "Red Narcor": 100,
+      "Reknite": 2700
+    },
+    "items": []
+  },
+  "Afterburner-S I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Afterburner-S II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Afterburner-S I"
+    ]
+  },
+  "Afterburner-S III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Afterburner-S II"
+    ]
+  },
+  "Astero": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 900,
+      "Korrelite": 2200,
+      "Narcor": 100,
+      "Reknite": 1400
+    },
+    "items": [],
+    "blueprint": "Astero blueprint"
+  },
+  "Aurora": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 225,
+      "Reknite": 100
+    },
+    "items": []
+  },
+  "Badger": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 66
+    },
+    "items": []
+  },
+  "Barracuda": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 700,
+      "Gellium": 1800,
+      "Korrelite": 4800,
+      "Narcor": 250,
+      "Red Narcor": 100,
+      "Reknite": 2900
+    },
+    "items": [],
+    "blueprint": "Barracuda blueprint"
+  },
+  "Battery I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Battery II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Battery I"
+    ]
+  },
+  "Battery III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Battery II"
+    ]
+  },
+  "Beam I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Beam II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Beam I"
+    ]
+  },
+  "Beam III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Beam II"
+    ]
+  },
+  "Beam-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Beam-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Beam-M I"
+    ]
+  },
+  "Beam-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Beam-M II"
+    ]
+  },
+  "Bison": {
+    "buildTime": 900,
+    "resources": {
+      "Axnit": 50,
+      "Korrelite": 400,
+      "Narcor": 25
+    },
+    "items": [
+      "Hyrax"
+    ]
+  },
+  "Blaster I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Blaster II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Blaster I"
+    ]
+  },
+  "Blaster III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Blaster II"
+    ]
+  },
+  "Blaster-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Blaster-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Blaster-M I"
+    ]
+  },
+  "Blaster-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Blaster-M II"
+    ]
+  },
+  "Blink Drive I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Blink Drive II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Blink Drive I"
+    ]
+  },
+  "Blink Drive III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Blink Drive II"
+    ]
+  },
+  "Bulwark": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1800,
+      "Gellium": 5200,
+      "Korrelite": 14500,
+      "Narcor": 600,
+      "Red Narcor": 250,
+      "Reknite": 8000,
+      "Vexnium": 20
+    },
+    "items": []
+  },
+  "Candiru": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Mackerel"
+    ],
+    "blueprint": "Candiru blueprint"
+  },
+  "Cannon I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Cannon II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Cannon I"
+    ]
+  },
+  "Cannon III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Cannon II"
+    ]
+  },
+  "Cannon-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Cannon-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Cannon-M I"
+    ]
+  },
+  "Cannon-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Cannon-M II"
+    ]
+  },
+  "Chevron": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 320,
+      "Gellium": 800,
+      "Korrelite": 2200,
+      "Narcor": 100,
+      "Reknite": 1300
+    },
+    "items": []
+  },
+  "Claymore": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 65
+    },
+    "items": [
+      "Sabre"
+    ]
+  },
+  "Coilgun I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Coilgun II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Coilgun I"
+    ]
+  },
+  "Coilgun III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Coilgun II"
+    ]
+  },
+  "Coilgun-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Coilgun-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Coilgun-M I"
+    ]
+  },
+  "Coilgun-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Coilgun-M II"
+    ]
+  },
+  "Composite Armor I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Composite Armor II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Composite Armor I"
+    ]
+  },
+  "Composite Armor III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Composite Armor II"
+    ]
+  },
+  "Conciliator": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1800,
+      "Gellium": 5200,
+      "Korrelite": 14500,
+      "Narcor": 600,
+      "Red Narcor": 250,
+      "Reknite": 8000,
+      "Vexnium": 20
+    },
+    "items": [],
+    "blueprint": "Conciliator blueprint"
+  },
+  "CoreSec Targeter I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Disruptor I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Disruptor II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Disruptor I"
+    ]
+  },
+  "Disruptor III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Disruptor II"
+    ]
+  },
+  "Dread Coilgun": {
+    "buildTime": 30,
+    "resources": {
+      "Metal scraps": 100,
+      "Power cell": 10
+    },
+    "items": [
+      "Coilgun III"
+    ],
+    "blueprint": "Dread Coilgun blueprint"
+  },
+  "Dread Coilgun-M": {
+    "buildTime": 60,
+    "resources": {
+      "Metal scraps": 200,
+      "Power cell": 20
+    },
+    "items": [
+      "Coilgun-M III"
+    ],
+    "blueprint": "Dread Coilgun-M blueprint"
+  },
+  "Dread Flak": {
+    "buildTime": 30,
+    "resources": {
+      "Metal scraps": 100,
+      "Power cell": 10
+    },
+    "items": [
+      "Flak III"
+    ],
+    "blueprint": "Dread Flak blueprint"
+  },
+  "Dread Railgun": {
+    "buildTime": 30,
+    "resources": {
+      "Metal scraps": 100,
+      "Power cell": 10
+    },
+    "items": [
+      "Railgun III"
+    ],
+    "blueprint": "Dread Railgun blueprint"
+  },
+  "Dread Railgun-M": {
+    "buildTime": 60,
+    "resources": {
+      "Metal scraps": 200,
+      "Power cell": 20
+    },
+    "items": [
+      "Railgun-M III"
+    ],
+    "blueprint": "Dread Railgun-M blueprint"
+  },
+  "Dread Shrapnel": {
+    "buildTime": 30,
+    "resources": {
+      "Metal scraps": 100,
+      "Power cell": 10
+    },
+    "items": [
+      "Shrapnel III"
+    ],
+    "blueprint": "Dread Shrapnel blueprint"
+  },
+  "Drone Targeter I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Drone Targeter II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Drone Targeter I"
+    ]
+  },
+  "Echelon": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1950,
+      "Gellium": 5600,
+      "Korrelite": 15800,
+      "Narcor": 650,
+      "Red Narcor": 275,
+      "Reknite": 8750,
+      "Vexnium": 22
+    },
+    "items": []
+  },
+  "Eclipse Helmet": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 20,
+      "Narcor": 10
+    },
+    "items": [
+      "Shadow Helmet"
+    ]
+  },
+  "Eclipse Legs": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 30,
+      "Narcor": 15
+    },
+    "items": [
+      "Shadow Legs"
+    ]
+  },
+  "Eclipse Torso": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Shadow Torso"
+    ]
+  },
+  "Edict": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 750,
+      "Korrelite": 2000,
+      "Narcor": 100,
+      "Reknite": 1200
+    },
+    "items": [],
+    "blueprint": "Edict blueprint"
+  },
+  "Energy Booster I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Energy Booster II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Energy Booster I"
+    ]
+  },
+  "Energy Booster III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Energy Booster II"
+    ]
+  },
+  "Engine Gimbals I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Engine Gimbals II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Engine Gimbals I"
+    ]
+  },
+  "Engine Gimbals III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Engine Gimbals II"
+    ]
+  },
+  "Enhanced Deflectors I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Enhanced Deflectors II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Enhanced Deflectors I"
+    ]
+  },
+  "Enhanced Deflectors III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Enhnaced Deflectors II"
+    ]
+  },
+  "Enhanced Servos I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Enhanced Servos II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Enhanced Servos I"
+    ]
+  },
+  "Enhanced Servos III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Enhanced Servos II"
+    ]
+  },
+  "Eos": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 900,
+      "Korrelite": 2800,
+      "Narcor": 100,
+      "Reknite": 1650
+    },
+    "items": [],
+    "blueprint": "Eos blueprint"
+  },
+  "Exhaust Restrictor I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Exhaust Restrictor II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Exhaust Restrictor I"
+    ]
+  },
+  "Exhaust Restrictor III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Exhaust Restrictor II"
+    ]
+  },
+  "Falcon": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Flak I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Flak II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Flak I"
+    ]
+  },
+  "Flak III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Flak II"
+    ]
+  },
+  "Foralkan Targeter I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Foralkan Targeter II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Foralkan Targeter I"
+    ]
+  },
+  "Fortitude": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1650,
+      "Gellium": 4700,
+      "Korrelite": 13000,
+      "Narcor": 550,
+      "Red Narcor": 225,
+      "Reknite": 7200,
+      "Vexnium": 16
+    },
+    "items": []
+  },
+  "Fuel Injector I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Fuel Injector II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Fuel Injector I"
+    ]
+  },
+  "Fuel Injector III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Fuel Injector II"
+    ]
+  },
+  "Gal-32": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 20
+    },
+    "items": [
+      "Gal-31"
+    ]
+  },
+  "Gal-33": {
+    "buildTime": 10,
+    "resources": {
+      "Narcor": 10
+    },
+    "items": [
+      "Gal-32"
+    ]
+  },
+  "Galaxy": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 750,
+      "Gellium": 1950,
+      "Korrelite": 5200,
+      "Narcor": 275,
+      "Red Narcor": 100,
+      "Reknite": 3100
+    },
+    "items": [],
+    "blueprint": "Galaxy blueprint"
+  },
+  "HE Rounds I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "HE Rounds II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "HE Rounds I"
+    ]
+  },
+  "Halo": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 650,
+      "Gellium": 1650,
+      "Korrelite": 4500,
+      "Narcor": 225,
+      "Red Narcor": 100,
+      "Reknite": 2700
+    },
+    "items": []
+  },
+  "Hardlight Shields I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Hardlight Shields II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Hardlight Shields I"
+    ]
+  },
+  "Hardlight Shields III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Hardlight Shields II"
+    ]
+  },
+  "Heat Sink": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 10,
+      "Korrelite": 10,
+      "Water": 25
+    },
+    "items": []
+  },
+  "Heat Sink I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Heat Sink II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Heat Sink I"
+    ]
+  },
+  "Heat Sink III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Heat Sink II"
+    ]
+  },
+  "Heavy Bolt I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Heavy Bolt II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Heavy Bolt I"
+    ]
+  },
+  "Heavy Bolt III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Heavy Bolt II"
+    ]
+  },
+  "Heavy Hull Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 160,
+      "Korrelite": 320,
+      "Reknite": 240
+    },
+    "items": []
+  },
+  "Heavy Hull Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 160,
+      "Narcor": 80
+    },
+    "items": [
+      "Heavy Hull Repairer I"
+    ]
+  },
+  "Heavy Hull Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 80
+    },
+    "items": [
+      "Heavy Hull Repairer II"
+    ]
+  },
+  "Heavy Sensor Jammer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 160,
+      "Korrelite": 320,
+      "Reknite": 240
+    },
+    "items": []
+  },
+  "Heavy Sensor Jammer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 160,
+      "Narcor": 80
+    },
+    "items": [
+      "Heavy Sensor Jammer I"
+    ]
+  },
+  "Heavy Sensor Jammer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 80
+    },
+    "items": [
+      "Heavy Sensor Jammer II"
+    ]
+  },
+  "Heavy Shield Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 160,
+      "Korrelite": 320,
+      "Reknite": 240
+    },
+    "items": []
+  },
+  "Heavy Shield Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 160,
+      "Narcor": 80
+    },
+    "items": [
+      "Heavy Shield Repairer I"
+    ]
+  },
+  "Heavy Shield Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 80
+    },
+    "items": [
+      "Heavy Shield Repairer II"
+    ]
+  },
+  "Honey Badger": {
+    "buildTime": 900,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Badger"
+    ]
+  },
+  "Horizon": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1650,
+      "Gellium": 4700,
+      "Korrelite": 13000,
+      "Narcor": 550,
+      "Red Narcor": 225,
+      "Reknite": 7200,
+      "Vexnium": 16
+    },
+    "items": []
+  },
+  "Hornbill": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Toucan"
+    ],
+    "blueprint": "Hornbill blueprint"
+  },
+  "Hull Booster I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Hull Booster II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Hull Booster I"
+    ]
+  },
+  "Hull Booster III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Hull Booster II"
+    ]
+  },
+  "Hybrid Beam": {
+    "buildTime": 30,
+    "resources": {
+      "Drone core": 10,
+      "Power cell": 10
+    },
+    "items": [
+      "Beam III"
+    ],
+    "blueprint": "Hybrid Beam blueprint"
+  },
+  "Hybrid Beam-M": {
+    "buildTime": 60,
+    "resources": {
+      "Drone core": 20,
+      "Power cell": 20
+    },
+    "items": [
+      "Beam-M III"
+    ],
+    "blueprint": "Hybrid Beam-M blueprint"
+  },
+  "Hybrid Blaster": {
+    "buildTime": 30,
+    "resources": {
+      "Drone core": 10,
+      "Power cell": 10
+    },
+    "items": [
+      "Blaster III"
+    ],
+    "blueprint": "Hybrid Blaster blueprint"
+  },
+  "Hybrid Blaster-M": {
+    "buildTime": 60,
+    "resources": {
+      "Drone core": 20,
+      "Power cell": 20
+    },
+    "items": [
+      "Blaster-M III"
+    ],
+    "blueprint": "hybrid Blaster-M blueprint"
+  },
+  "Hybrid Cannon": {
+    "buildTime": 30,
+    "resources": {
+      "Drone core": 10,
+      "Power cell": 10
+    },
+    "items": [
+      "Cannon III"
+    ],
+    "blueprint": "Hybrid Cannon blueprint"
+  },
+  "Hybrid Cannon-M": {
+    "buildTime": 60,
+    "resources": {
+      "Drone core": 20,
+      "Power cell": 20
+    },
+    "items": [
+      "Cannon-M III"
+    ],
+    "blueprint": "Hybrid Cannon-M blueprint"
+  },
+  "Hybrid Claymore": {
+    "buildTime": 3600,
+    "resources": {
+      "Drone command core": 1,
+      "Power cell": 100,
+      "Vexnium": 2
+    },
+    "items": [
+      "Claymore"
+    ],
+    "blueprint": "Hybrid Claymore blueprint"
+  },
+  "Hybrid Ion": {
+    "buildTime": 30,
+    "resources": {
+      "Drone core": 10,
+      "Power cell": 10
+    },
+    "items": [
+      "Ion III"
+    ],
+    "blueprint": "Hybrid Ion blueprint"
+  },
+  "Hybrid Ion-M": {
+    "buildTime": 60,
+    "resources": {
+      "Drone core": 20,
+      "Power cell": 20
+    },
+    "items": [
+      "Ion-M III"
+    ],
+    "blueprint": "Hybrid Ion-M blueprint"
+  },
+  "Hybrid Luminar": {
+    "buildTime": 3600,
+    "resources": {
+      "Drone command core": 1,
+      "Power cell": 100,
+      "Vexnium": 2
+    },
+    "items": [
+      "Luminar"
+    ],
+    "blueprint": "Hybrid Luminar blueprint"
+  },
+  "Hybrid Paragon": {
+    "buildTime": 300,
+    "resources": {
+      "Drone command core": 1,
+      "Power cell": 100,
+      "Vexnium": 2
+    },
+    "items": [
+      "Paragon"
+    ],
+    "blueprint": "Hybrid Paragon blueprint"
+  },
+  "Hybrid Polaris": {
+    "buildTime": 300,
+    "resources": {
+      "Drone command core": 1,
+      "Power cell": 100,
+      "Vexnium": 2
+    },
+    "items": [
+      "Polaris"
+    ],
+    "blueprint": "Hybrid Polaris blueprint"
+  },
+  "Hyper G2": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 15
+    },
+    "items": [
+      "Hyper G1"
+    ]
+  },
+  "Hyper X9": {
+    "buildTime": 10,
+    "resources": {
+      "Narcor": 10
+    },
+    "items": [
+      "Hyper G2"
+    ]
+  },
+  "Hyrax": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 15,
+      "Korrelite": 130,
+      "Reknite": 35
+    },
+    "items": []
+  },
+  "Ice Miner I": {
+    "buildTime": 10,
+    "resources": {
+      "Red Narcor": 10
+    },
+    "items": [
+      "Heat Sink",
+      "Miner II"
+    ]
+  },
+  "Ice Miner II": {
+    "buildTime": 10,
+    "resources": {
+      "Power cell": 10
+    },
+    "items": [
+      "Heat Sink",
+      "Ice Miner I"
+    ],
+    "blueprint": "Ice Miner II blueprint"
+  },
+  "Infinity": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 280,
+      "Gellium": 700,
+      "Korrelite": 1800,
+      "Narcor": 100,
+      "Reknite": 1100
+    },
+    "items": []
+  },
+  "Ion I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Ion II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Ion I"
+    ]
+  },
+  "Ion III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Ion II"
+    ]
+  },
+  "Ion Rounds I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Ion Rounds II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Ion Rounds I"
+    ]
+  },
+  "Ion Rounds III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Ion Rounds II"
+    ]
+  },
+  "Ion-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Ion-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Ion-M I"
+    ]
+  },
+  "Ion-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Ion-M II"
+    ]
+  },
+  "Jockey Helmet": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 20,
+      "Narcor": 10
+    },
+    "items": [
+      "Marine Helmet"
+    ]
+  },
+  "Jockey Legs": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 30,
+      "Narcor": 15
+    },
+    "items": [
+      "Marine Legs"
+    ]
+  },
+  "Jockey Torso": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Marine Torso"
+    ]
+  },
+  "Judicator": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 708,
+      "Gellium": 1800,
+      "Korrelite": 4800,
+      "Narcor": 250,
+      "Red Narcor": 100,
+      "Reknite": 2900
+    },
+    "items": [],
+    "blueprint": "Judicator blueprint"
+  },
+  "Justice": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1800,
+      "Gellium": 5200,
+      "Korrelite": 14500,
+      "Narcor": 600,
+      "Red Narcor": 250,
+      "Reknite": 8000,
+      "Vexnium": 20
+    },
+    "items": [],
+    "blueprint": "Justice blueprint"
+  },
+  "Kavani Targeter I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Kavanit Targeter II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Kavani Targeter I"
+    ]
+  },
+  "Knifejaw": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 750,
+      "Korrelite": 2000,
+      "Narcor": 100,
+      "Reknite": 1200
+    },
+    "items": [],
+    "blueprint": "Knifejaw blueprint"
+  },
+  "Kodiak": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 800,
+      "Gellium": 2050,
+      "Korrelite": 6000,
+      "Narcor": 300,
+      "Reknite": 3400
+    },
+    "items": []
+  },
+  "Koronis": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Koronis blueprint"
+  },
+  "LG9-T": {
+    "buildTime": 10,
+    "resources": {
+      "Narcor": 10
+    },
+    "items": [
+      "LG5-T"
+    ]
+  },
+  "Liberty": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 750,
+      "Korrelite": 2000,
+      "Narcor": 100,
+      "Reknite": 1200
+    },
+    "items": [],
+    "blueprint": "Liberty blueprint"
+  },
+  "Light Hull Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Light Hull Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": []
+  },
+  "Light Hull Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Light Hull Repairer II"
+    ]
+  },
+  "Light Sensor Jammer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Light Shield Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Light Shield Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Light Shield Repairer I"
+    ]
+  },
+  "Light Shield Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Light Shield Repairer II"
+    ]
+  },
+  "Lightweight Engines I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Lightweight Engines II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Lightweight Engines I"
+    ]
+  },
+  "Lightweight Engines III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Lightweight Engines II"
+    ]
+  },
+  "Loxodon": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 1800,
+      "Gellium": 5200,
+      "Korrelite": 14500,
+      "Narcor": 600,
+      "Red Narcor": 250,
+      "Reknite": 8000,
+      "Vexnium": 20
+    },
+    "items": [],
+    "blueprint": "Loxodon blueprint"
+  },
+  "Lucent": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Luster"
+    ],
+    "blueprint": "Lucent blueprint"
+  },
+  "Luminar": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Aurora"
+    ]
+  },
+  "Luster": {
+    "buildTime": 600,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Luster blueprint"
+  },
+  "Lycentian Targeter I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Lycentian Targeter II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Lycentian Targeter I"
+    ]
+  },
+  "Macaw": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Parrot"
+    ],
+    "blueprint": "Macaw blueprint"
+  },
+  "Mackerel": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Mackerel blueprint"
+  },
+  "Mako": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 40
+    },
+    "items": [
+      "Marlin"
+    ]
+  },
+  "Marlin": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 20,
+      "Korrelite": 140,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Medium Hull Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Reknite": 180,
+      "Korrelite": 240,
+      "Gellium": 120
+    },
+    "items": []
+  },
+  "Medium Hull Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 120,
+      "Narcor": 60
+    },
+    "items": [
+      "Medium Hull Repairer I"
+    ]
+  },
+  "Medium Hull Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 60
+    },
+    "items": [
+      "Medium Hull Repairer II"
+    ]
+  },
+  "Medium Shield Repairer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 120,
+      "Korrelite": 240,
+      "Reknite": 180
+    },
+    "items": []
+  },
+  "Medium Shield Repairer II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 120,
+      "Narcor": 60
+    },
+    "items": [
+      "Medium Shield Repairer I"
+    ]
+  },
+  "Medium Shield Repairer III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 60
+    },
+    "items": [
+      "Medium Shield Repairer II"
+    ]
+  },
+  "Miner I": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 60,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Miner II": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 60
+    },
+    "items": [
+      "Miner I"
+    ]
+  },
+  "Noneifier Rounds I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Nullifier Rounds II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Nullifier Rounds I"
+    ]
+  },
+  "Nullifier Rounds I": {
+    "buildTime": 30,
+    "resources": {
+      "Reknite": 60,
+      "Korrelite": 80,
+      "Gellium": 40
+    },
+    "items": []
+  },
+  "Orin 388": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 15
+    },
+    "items": [
+      "Orin 377"
+    ]
+  },
+  "Orin 399": {
+    "buildTime": 10,
+    "resources": {
+      "Narcor": 10
+    },
+    "items": [
+      "Orin 388"
+    ]
+  },
+  "Overclocker I": {
+    "buildTime": 60,
+    "resources": {
+      "Reknite": 120,
+      "Korrelite": 160,
+      "Gellium": 80
+    },
+    "items": []
+  },
+  "Overclocker II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Overclocker I"
+    ]
+  },
+  "Overclocker III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Overclocker II"
+    ]
+  },
+  "Overdrive-L I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 160,
+      "Korrelite": 320,
+      "Reknite": 240
+    },
+    "items": []
+  },
+  "Overdrive-L II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 160,
+      "Narcor": 80
+    },
+    "items": [
+      "Overdrive-L I"
+    ]
+  },
+  "Overdrive-L III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 80
+    },
+    "items": [
+      "Overdrive-L II"
+    ]
+  },
+  "Overdrive-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Reknite": 180,
+      "Korrelite": 240,
+      "Gellium": 120
+    },
+    "items": []
+  },
+  "Overdrive-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 120,
+      "Narcor": 60
+    },
+    "items": [
+      "Overdrive-M I"
+    ]
+  },
+  "Overdrive-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 60
+    },
+    "items": [
+      "Overdrive-M II"
+    ]
+  },
+  "Ozark": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 900,
+      "Korrelite": 2800,
+      "Narcor": 100,
+      "Reknite": 1650
+    },
+    "items": []
+  },
+  "Paragon": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 60
+    },
+    "items": [
+      "Falcon"
+    ]
+  },
+  "Parallel Circuits I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Parallel Circuits II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Parallel Circuits I"
+    ]
+  },
+  "Parallel Circuits III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Parallel Circuits II"
+    ]
+  },
+  "Parrot": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Parrot blueprint"
+  },
+  "Patcher Nanobots I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Patcher Nanobots II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Patcher Nanobots I"
+    ]
+  },
+  "Patcher Nanobots III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Patcher Nanobots II"
+    ]
+  },
+  "Phalanx": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 750,
+      "Gellium": 1950,
+      "Korrelite": 5200,
+      "Narcor": 275,
+      "Red Narcor": 100,
+      "Reknite": 3100
+    },
+    "items": []
+  },
+  "Piranha": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Piranha blueprint"
+  },
+  "Polaris": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Zenith"
+    ]
+  },
+  "Precision Miner I": {
+    "buildTime": 10,
+    "resources": {
+      "Red Narcor": 10
+    },
+    "items": [
+      "Heat Sink",
+      "Miner II"
+    ]
+  },
+  "Precision Miner II": {
+    "buildTime": 10,
+    "resources": {
+      "Power cell": 10
+    },
+    "items": [
+      "Heat Sink",
+      "Precision Miner I"
+    ],
+    "blueprint": "Precision Miner II blueprint"
+  },
+  "Radix": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 280,
+      "Gellium": 700,
+      "Korrelite": 1800,
+      "Narcor": 100,
+      "Reknite": 1100
+    },
+    "items": []
+  },
+  "Railgun I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Railgun II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Railgun I"
+    ]
+  },
+  "Railgun III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Railgun II"
+    ]
+  },
+  "Railgun-M I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Railgun-M II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Railgun-M I"
+    ]
+  },
+  "Railgun-M III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Railgun-M II"
+    ]
+  },
+  "Rapid Bolt I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Rapid Bolt II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Rapid Bolt I"
+    ]
+  },
+  "Rapid Bolt III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Rapid Bolt II"
+    ]
+  },
+  "Reflective Panels I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Reflective Panels II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Reflective Panels I"
+    ]
+  },
+  "Reflective Plating I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Reflective Plating II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Reflective Plating I"
+    ]
+  },
+  "Reflective Plating III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Reflective Plating II"
+    ]
+  },
+  "Reinforced Hull I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Reinforced Hull II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Reinforced Hull I"
+    ]
+  },
+  "Reinforced Hull III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Reinforced Hull II"
+    ]
+  },
+  "Rhino": {
+    "buildTime": 600,
+    "resources": {
+      "Axnit": 30,
+      "Narcor": 15,
+      "Reknite": 200
+    },
+    "items": [
+      "Hyrax"
+    ]
+  },
+  "Sabre": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 50,
+      "Korrelite": 320,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Sensor Booster I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Sensor Booster II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Sensor Booster I"
+    ]
+  },
+  "Sensor Booster III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Sensor Booster II"
+    ]
+  },
+  "Sensor Jammer I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 120,
+      "Korrelite": 240,
+      "Reknite": 180
+    },
+    "items": []
+  },
+  "Servo Surge I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Servo Surge III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Servo Surge II"
+    ]
+  },
+  "Shield Amplifier I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Shield Amplifier II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Shield Amplifier I"
+    ]
+  },
+  "Shield Amplifier III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Shield Amplifier II"
+    ]
+  },
+  "Shield Booster I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Shield Booster II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Shield Booster I"
+    ]
+  },
+  "Shield Booster III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "shield booster II"
+    ]
+  },
+  "Shrapnel I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Shrapnel II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Shrapnel I"
+    ]
+  },
+  "Shrapnel III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Shrapnel II"
+    ]
+  },
+  "Shroud": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 750,
+      "Gellium": 1950,
+      "Korrelite": 5200,
+      "Narcor": 275,
+      "Red Narcor": 100,
+      "Reknite": 3100
+    },
+    "items": [],
+    "blueprint": "Shroud blueprint"
+  },
+  "Skeletonized Chassis I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Skeletonized Chassis II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Skeletonized Chassis I"
+    ]
+  },
+  "Skeletonized Chassis III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Skeletonized Chassis II"
+    ]
+  },
+  "Spacemine I": {
+    "buildTime": 10,
+    "resources": {
+      "Korrelite": 18,
+      "Reknite": 10
+    },
+    "items": []
+  },
+  "Stasis Field I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Stasis Field II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Stasis Field I"
+    ]
+  },
+  "Stasis Field III": {
+    "buildTime": 60,
+    "resources": {
+      "Red Narcor": 40
+    },
+    "items": [
+      "Stasis Field II"
+    ]
+  },
+  "Strip Miner I": {
+    "buildTime": 10,
+    "resources": {
+      "Red Narcor": 10
+    },
+    "items": [
+      "Heat Sink",
+      "Miner II"
+    ]
+  },
+  "Strip Miner II": {
+    "buildTime": 10,
+    "resources": {
+      "Power cell": 10
+    },
+    "items": [
+      "Strip Miner I",
+      "Heat Sink"
+    ],
+    "blueprint": "Strip Miner II blueprint"
+  },
+  "Swift Bolt I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Swift Bolt II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Swift Bolt I"
+    ]
+  },
+  "Swift Bolt III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Swift Bolt II"
+    ]
+  },
+  "Target Painter I": {
+    "buildTime": 60,
+    "resources": {
+      "Gellium": 80,
+      "Korrelite": 160,
+      "Reknite": 120
+    },
+    "items": []
+  },
+  "Target Painter II": {
+    "buildTime": 60,
+    "resources": {
+      "Axnit": 80,
+      "Narcor": 40
+    },
+    "items": [
+      "Target Painter I"
+    ]
+  },
+  "Templar Helmet": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 20,
+      "Narcor": 10
+    },
+    "items": [
+      "Rogue Helmet"
+    ]
+  },
+  "Templar Legs": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 30,
+      "Narcor": 15
+    },
+    "items": [
+      "Rogue Legs"
+    ]
+  },
+  "Templar Torso": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Rogue Torso"
+    ]
+  },
+  "Tetra": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Tetra blueprint"
+  },
+  "Thresher": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Piranha"
+    ],
+    "blueprint": "Thresher blueprint"
+  },
+  "Toucan": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 300,
+      "Reknite": 120
+    },
+    "items": [],
+    "blueprint": "Toucan blueprint"
+  },
+  "Triazo": {
+    "buildTime": 600,
+    "resources": {
+      "Narcor": 50
+    },
+    "items": [
+      "Tetra"
+    ],
+    "blueprint": "Triazo blueprint"
+  },
+  "Ultralight Chassis I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Ultralight Chassis II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Ultralight Chassis I"
+    ]
+  },
+  "Ultralight Chassis III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Ultralight Chassis II"
+    ]
+  },
+  "Veil": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 900,
+      "Korrelite": 2200,
+      "Narcor": 100,
+      "Reknite": 1400
+    },
+    "items": [],
+    "blueprint": "Veil blueprint"
+  },
+  "Vesta": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 800,
+      "Gellium": 2050,
+      "Korrelite": 6000,
+      "Narcor": 300,
+      "Red Narcor": 100,
+      "Reknite": 3400
+    },
+    "items": [],
+    "blueprint": "Vesta blueprint"
+  },
+  "Virtue": {
+    "buildTime": 9000,
+    "resources": {
+      "Axnit": 700,
+      "Gellium": 1800,
+      "Korrelite": 4800,
+      "Narcor": 250,
+      "Red Narcor": 100,
+      "Reknite": 2900
+    },
+    "items": [],
+    "blueprint": "Virtue blueprint"
+  },
+  "Warden Helmet": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 20,
+      "Narcor": 10
+    },
+    "items": [
+      "Nero Helmet"
+    ]
+  },
+  "Warden Legs": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 30,
+      "Narcor": 15
+    },
+    "items": [
+      "Nero Legs"
+    ]
+  },
+  "Warden Torso": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Nero Torso"
+    ]
+  },
+  "Warp Charger I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Warp Charger II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Warp Charger I"
+    ]
+  },
+  "Warp Charger III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Warp Charger II"
+    ]
+  },
+  "Warp Field Amplifier I": {
+    "buildTime": 30,
+    "resources": {
+      "Gellium": 40,
+      "Korrelite": 80,
+      "Reknite": 60
+    },
+    "items": []
+  },
+  "Warp Field Amplifier II": {
+    "buildTime": 30,
+    "resources": {
+      "Axnit": 40,
+      "Narcor": 20
+    },
+    "items": [
+      "Warp Field Amplifier I"
+    ]
+  },
+  "Warp Field Amplifier III": {
+    "buildTime": 30,
+    "resources": {
+      "Red Narcor": 20
+    },
+    "items": [
+      "Warp Field Amplifier II"
+    ]
+  },
+  "Warp disruptor I": {
+    "buildTime": 10,
+    "resources": {
+      "Gellium": 20,
+      "Korrelite": 35,
+      "Reknite": 25
+    },
+    "items": []
+  },
+  "Warp disruptor II": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 10,
+      "Narcor": 5
+    },
+    "items": [
+      "Warp disruptor I"
+    ]
+  },
+  "Warp disruptor III": {
+    "buildTime": 10,
+    "resources": {
+      "Axnit": 5,
+      "Narcor": 2,
+      "Red Narcor": 1
+    },
+    "items": [
+      "Warp disruptor II"
+    ]
+  },
+  "Yukon": {
+    "buildTime": 21600,
+    "resources": {
+      "Axnit": 2600,
+      "Gellium": 7600,
+      "Korrelite": 19000,
+      "Narcor": 800,
+      "Red Narcor": 300,
+      "Reknite": 11300,
+      "Vexnium": 25
+    },
+    "items": []
+  },
+  "Zenith": {
+    "buildTime": 300,
+    "resources": {
+      "Gellium": 30,
+      "Korrelite": 200,
+      "Reknite": 100
+    },
+    "items": []
+  },
+  "Zubron": {
+    "buildTime": 3600,
+    "resources": {
+      "Axnit": 300,
+      "Gellium": 900,
+      "Korrelite": 2200,
+      "Narcor": 100,
+      "Reknite": 1400
+    },
+    "items": []
+  },
+  "Hyper G1": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 520
+    },
+    "items": []
+  },
+  "Explosive I": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 60
+    },
+    "items": []
+  },
+  "Gal-31": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 650
+    },
+    "items": []
+  },
+  "LG0-T": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 700
+    },
+    "items": []
+  },
+  "Orin 377": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 480
+    },
+    "items": []
+  },
+  "Poison I": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 70
+    },
+    "items": []
+  },
+  "Smoke I": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 60
+    },
+    "items": []
+  },
+  "Marine Helmet": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 350
+    },
+    "items": []
+  },
+  "Marine Legs": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 550
+    },
+    "items": []
+  },
+  "Marine Torso": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 799
+    },
+    "items": []
+  },
+  "Nero Helmet": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 450
+    },
+    "items": []
+  },
+  "Nero Legs": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 650
+    },
+    "items": []
+  },
+  "Nero Torso": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 900
+    },
+    "items": []
+  },
+  "Rogue Helmet": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 450
+    },
+    "items": []
+  },
+  "Rogue Legs": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 650
+    },
+    "items": []
+  },
+  "Rogue Torso": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 900
+    },
+    "items": []
+  },
+  "Shadow Helmet": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 350
+    },
+    "items": []
+  },
+  "Shadow Legs": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 550
+    },
+    "items": []
+  },
+  "Shadow Torso": {
+    "buildTime": 0,
+    "resources": {
+      "Credits": 799
+    },
+    "items": []
+  }
+}
